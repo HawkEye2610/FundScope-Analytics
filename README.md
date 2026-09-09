@@ -282,6 +282,18 @@ Conditional formatting highlights the stronger value for key comparison metrics 
 
 For Expense Ratio, a lower value is treated as better.
 
+### Dashboard Preview
+
+![FundScope Analytics Dashboard](images/dashboard.png)
+
+### Fund Explorer Preview
+
+![Fund Explorer](images/fund-explorer.png)
+
+### Fund Comparison Preview
+
+![Fund Comparison](images/fund-comparison.png)
+
 ---
 
 ## 🔎 Key Findings
@@ -350,6 +362,9 @@ FundScope-Analytics/
 │   └── Mutual_Fund_Analytics.xlsx
 │
 ├── images/
+│   ├── dashboard.png
+│   ├── fund-explorer.png
+│   └── fund-comparison.png
 │
 ├── notebooks/
 │   └── mutual_fund_analysis.ipynb
