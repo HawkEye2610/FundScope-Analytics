@@ -1,4 +1,3 @@
-````markdown
 # FundScope Analytics
 
 An end-to-end mutual fund analytics and screening project that combines Python, MySQL, and Excel to clean, analyze, rank, and compare mutual fund schemes using historical performance, cost, consistency, and accessibility-related metrics.
@@ -437,4 +436,3 @@ Potential future improvements could include:
 ## 📌 Disclaimer
 
 This project is created for educational and analytical purposes. The rankings, scores, historical returns and comparisons shown in FundScope Analytics should not be interpreted as financial advice or recommendations to buy or sell any mutual fund.
-````
